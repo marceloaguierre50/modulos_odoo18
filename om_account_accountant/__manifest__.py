@@ -13,7 +13,7 @@
     'sequence': '1',
     'sequence': '1',
     'website': 'https://www.walnutit.com',
-    'author': 'Odoo Mates, Walnut Software Solutions, Odoo SA',
+    'author': 'Marcelo aguierre', #Odoo Mates, Walnut Software Solutions, Odoo SA
     'maintainer': 'Odoo Mates, Walnut Software Solutions',
     'license': 'LGPL-3',
     'support': 'odoomates@gmail.com',
